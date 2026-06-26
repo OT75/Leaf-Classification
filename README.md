@@ -1,12 +1,7 @@
 # Leaf Species Classifier
 
-An early exploration of CNN-based image classification on the Kaggle 
-leaf dataset, comparing classical ML approaches (RF, SVM) with a 
-custom CNN.
+This was an early exploratory project. I've since built more rigorous 
+work with proper experiment tracking, benchmarking, and documented results.
 
-**Looking for my more recent CNN work?**
-This project evolved into a more rigorous image classification 
-study on CIFAR-10 — with controlled experiments, grid search, 
-and a documented 13-point accuracy gain via transfer learning.
 
 👉 [CIFAR-10: From Scratch vs Transfer Learning](https://github.com/OT75/cifar10-cnn-vs-transfer-learning)
